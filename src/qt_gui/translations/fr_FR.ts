@@ -1791,8 +1791,8 @@
       <translation>Mettre à jour la compatibilité au démarrage:\nMet à jour immédiatement la base de données de compatibilité.</translation>
     </message>
     <message>
-      <source>Open the custom trophy images/sounds folder:\nYou can add custom images to the trophies and an audio.\nAdd the files to custom_trophy with the following names:\ntrophy.mp3, bronze.png, gold.png, platinum.png, silver.png\nNote: The sound will only work in QT versions.</source>
-      <translation>Ouvrez le dossier des images/sons de trophée personnalisés:\nVous pouvez ajouter des images personnalisées aux trophées et un audio.\nAjouter les fichiers à custom_trophy avec les noms suivants :\ntrophy.mp3, bronze.png, gold.png, platinum.png, silver.png\nNote: Le son ne fonctionnera que dans les versions QT.</translation>
+      <source>Open the custom trophy images/sounds folder:\nYou can add custom images to the trophies and an audio.\nAdd the files to custom_trophy with the following names:\ntrophy.wav OR trophy.mp3,bronze.png, gold.png, platinum.png, silver.png\nNote: The sound will only work in QT versions.</source>
+      <translation>Ouvrez le dossier des images/sons de trophée personnalisés:\nVous pouvez ajouter des images personnalisées aux trophées et un audio.\nAjouter les fichiers à custom_trophy avec les noms suivants :\ntrophy.wav OR trophy.mp3,bronze.png, gold.png, platinum.png, silver.png\nNote: Le son ne fonctionnera que dans les versions QT.</translation>
     </message>
     <message>
       <source>Never</source>

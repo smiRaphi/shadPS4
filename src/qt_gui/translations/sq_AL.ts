@@ -1791,8 +1791,8 @@
       <translation>Përditëso bazën e të dhënave të përputhshmërisë:\nPërditëso menjëherë bazën e të dhënave të përputhshmërisë.</translation>
     </message>
     <message>
-      <source>Open the custom trophy images/sounds folder:\nYou can add custom images to the trophies and an audio.\nAdd the files to custom_trophy with the following names:\ntrophy.mp3, bronze.png, gold.png, platinum.png, silver.png\nNote: The sound will only work in QT versions.</source>
-      <translation>Hap dosjen e imazheve/tingujve të trofeve të personalizuar:\nMund të shtosh imazhe të personalizuara për trofetë dhe një audio.\nShto skedarët në dosjen custom_trophy me emrat që vijojnë:\ntrophy.mp3, bronze.png, gold.png, platinum.png, silver.png\nShënim: Tingulli do të punojë vetëm në versionet QT.</translation>
+      <source>Open the custom trophy images/sounds folder:\nYou can add custom images to the trophies and an audio.\nAdd the files to custom_trophy with the following names:\ntrophy.wav OR trophy.mp3,bronze.png, gold.png, platinum.png, silver.png\nNote: The sound will only work in QT versions.</source>
+      <translation>Hap dosjen e imazheve/tingujve të trofeve të personalizuar:\nMund të shtosh imazhe të personalizuara për trofetë dhe një audio.\nShto skedarët në dosjen custom_trophy me emrat që vijojnë:\ntrophy.wav OR trophy.mp3,bronze.png, gold.png, platinum.png, silver.png\nShënim: Tingulli do të punojë vetëm në versionet QT.</translation>
     </message>
     <message>
       <source>Never</source>
